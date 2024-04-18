@@ -8,7 +8,7 @@
 - Docker, Nginx, REST API, Git, CI/CD, Postman, DBeaver
 - HTML, CSS, Bootstrap
 - JSON, YAML, XML
-- C#, LINQ, VB/VBA
+- C#, VB/VBA
 
 Контакты:
 - Email - a.chernovasilenko@yandex.ru
