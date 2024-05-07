@@ -3,7 +3,7 @@
 
 
 Технологический стек:
-- Python (Django, Django REST framework, SQLAlchemy, Gunicorn, Celery, pytest, unittest, Python Telegram Bot)
+- Python (Django, Flask, Django REST framework, SQLAlchemy, Celery, pytest, aiogram)
 - SQLite, PostgreSQL, Redis
 - Docker, Nginx, REST API, Git, CI/CD, Postman, DBeaver
 - HTML, CSS, Bootstrap
