@@ -3,7 +3,7 @@
 
 
 Технологический стек:
-- Python (Django, Flask, Django REST framework, SQLAlchemy, Celery, pytest, aiogram)
+- Python (Django, Flask, FastAPI, SQLAlchemy, Celery, pytest, aiogram)
 - SQLite, PostgreSQL, Redis
 - Docker, Nginx, REST API, Git, CI/CD, Postman, DBeaver
 - HTML, CSS, Bootstrap
