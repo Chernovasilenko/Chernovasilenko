@@ -6,7 +6,7 @@
 - Python (Django, Flask, FastAPI, SQLAlchemy, Celery, pytest, aiogram)
 - SQLite, PostgreSQL, Redis
 - Docker, Nginx, REST API, Git, CI/CD, Postman, DBeaver
-- HTML, CSS, Bootstrap
+- HTML, CSS, JS, Vue.js
 - JSON, YAML, XML
 - C#, VB/VBA
 
